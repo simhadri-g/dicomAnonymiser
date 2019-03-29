@@ -1,3 +1,5 @@
+#DICOM ANONYMISER
+
 This application is a DICOM Anonymiser that can be used to remove burnt-in text on a DICOM slice as well as modify MetaData Fields.
 The application is still under development, hence some buttons may not work.
 
